@@ -93,7 +93,8 @@ The Food and Beverages category generated the highest total revenue ($56144.84) 
     
     Sales Strategy Focus: This category should be prioritized in marketing and sales efforts. Use featured placement, upsell strategies, and loyalty programs to drive even greater value.
     
-    Profit Margin Optimization: Analyze unit costs and gross income to ensure these high revenues translate into strong profitability. If margins are already high, this line could be a major profit engine.
+    Profit Margin Optimization: Analyze unit costs and gross income to ensure these high revenues translate into strong profitability. 
+If margins are already high, this line could be a major profit engine.
     
     Branch-Level Tailoring: Identify which branches (e.g., Naypyitaw or others) are contributing most to this revenue and double down on tailored promotions in those areas.
     
