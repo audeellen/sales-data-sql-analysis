@@ -1,1 +1,1 @@
-# sales-data-sql-analysis
+# Sales-Data-SQL-Analysis
