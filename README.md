@@ -30,3 +30,20 @@ gross_income: Profit earned on the transaction before deducting operational expe
 
 rating: Customer rating of the experience (scale of 1 to 10).
 
+## Insights from Sales Data
+
+🏙️**Geographic & Branch Performance**
+
+**Number of Unique Cities**: The company operates in 3 distinct cities, 'Yangon', 'Naypyitaw' and 'Mandalay'.
+
+**Top-Performing City**: Among the three cities in the dataset, ** Naypyitaw ** stands out as the top revenue generator, bringing in a total of $110,490.78. This figure exceeds the revenue of other cities, positioning Naypyitaw as a crucial driver of business performance.
+
+    Implications:
+    
+    Customer Engagement: The higher revenue may reflect stronger customer engagement, brand presence, or favorable demographics in Naypyitaw
+    
+    Marketing Focus: This city could benefit from continued or increased marketing investment, loyalty programs, or new product launches to capitalize on its strong performance.
+    
+    
+    Inventory Allocation: Products that sell well here should be prioritized in stock planning to prevent shortages and lost sales.
+
