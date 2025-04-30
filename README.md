@@ -30,7 +30,6 @@ gross_income: Profit earned on the transaction before deducting operational expe
 
 rating: Customer rating of the experience (scale of 1 to 10).
 
-## Insights from Sales Data
 
 ## Insights from Sales Data
 
@@ -50,6 +49,22 @@ Top-Performing City: Among the three cities in the dataset, ** Naypyitaw ** stan
 
 
 
+
+⏰ **Time of Day Analysis:** Peak Sales in the Evening
+
+Insight: Based on the **feature-engineered** column time_of_day, which categorizes transactions into Morning, Afternoon, and Evening, the data reveals that the Evening period experiences the highest volume of sales.
+
+This time-based trend suggests a clear customer behavior pattern: shoppers are most active later in the day, likely after work or school hours. This behavior is critical for both operational planning and marketing strategy.
+
+    Implications for Business Operations:
+    
+    Digital Engagement Timing: Schedule promotional emails, SMS messages, or social media posts to hit inboxes just before the evening window to boost conversion rates.
+
+    Staffing Optimization: Allocate more staff or extend cashier coverage during the evening to manage peak traffic and minimize wait times. This ensures smoother customer service and better in-store experiences during the busiest hours.
+    
+    Inventory Management:Ensure high-demand items are restocked and available before the evening rush. Replenishing stock too late could lead to missed sales.
+
+
 📦 **Best-Selling Product Line (by Quantity):** Electrionic Accessories
 
 
@@ -67,3 +82,19 @@ The Electronic Accessories category emerged as the highest-selling product line 
     
     Regional Analysis Opportunity: If Electronic Accessories are especially popular in certain cities (e.g., Naypyitaw), regional teams can tailor inventory and marketing to maximize returns.
 
+📦 **Best-Selling Product Line (by revenue):** Food and Beverages
+
+The Food and Beverages category generated the highest total revenue ($56144.84) across all product lines, even though it wasn’t the highest in unit sales. This implies that products in this category are priced higher, purchased in larger quantities per transaction, or possibly have better margins.This infomation is valuable because customers may be more willing to spend on consumables, suggesting high perceived value or necessity.
+
+  
+
+
+    Implications:
+    
+    Sales Strategy Focus: This category should be prioritized in marketing and sales efforts. Use featured placement, upsell strategies, and loyalty programs to drive even greater value.
+    
+    Profit Margin Optimization: Analyze unit costs and gross income to ensure these high revenues translate into strong profitability. If margins are already high, this line could be a major profit engine.
+    
+    Branch-Level Tailoring: Identify which branches (e.g., Naypyitaw or others) are contributing most to this revenue and double down on tailored promotions in those areas.
+    
+    Consumer Behavior Insight: This could suggest frequent repeat purchases, making the category ideal for subscription-based offerings, combo deals, or digital coupons.
