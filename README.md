@@ -15,20 +15,15 @@ unit_price|Price per unit of the product.|DECIMAL(10, 2)
 quantity|Number of units purchased.|INT
 tax_pct| Tax applied to the transaction as a percentage.|FLOAT(6, 4)
 total|Total amount paid by the customer including tax.|DECIMAL(10, 2)
+date|Date of the transaction.|DATE
+time| Time of the transaction.| TIMESTAMP
+payment| Method of payment (e.g., Cash, Credit card, Ewallet).|DECIMAL(10, 2)
+cogs| Cost of goods sold, or the total cost incurred for the products sold.|DECIMAL(10, 2) 
+gross_margin_pct| Gross margin percentage earned on the transaction.|	FLOAT(11, 9)
+gross_income| Profit earned on the transaction before deducting operational expenses.|DECIMAL(10, 2)
+rating| Customer rating of the experience (scale of 1 to 10).|FLOAT(2, 1)
 
-date: Date of the transaction.
 
-time: Time of the transaction.
-
-payment: Method of payment (e.g., Cash, Credit card, Ewallet).
-
-cogs: Cost of goods sold, or the total cost incurred for the products sold.
-
-gross_margin_pct: Gross margin percentage earned on the transaction.
-
-gross_income: Profit earned on the transaction before deducting operational expenses.
-
-rating: Customer rating of the experience (scale of 1 to 10).
 
 
 ## Insights from Sales Data
