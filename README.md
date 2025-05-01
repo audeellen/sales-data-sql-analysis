@@ -1,6 +1,6 @@
 # Sales Data Analysis using SQL
 
-This project is based on a sales dataset from a fictional retail company with multiple branches operating in different cities. The dataset simulates real-world transaction data and contains 1,000+ rows (assumed—you can adjust based on the actual size) capturing key details about customer purchases, pricing, revenue, and feedback. To demonstrate SQL skills relevant to analytical roles, I performed Exploratory Data Analysis series of intermediate SQL queries.
+This dataset contains transactional sales data from Walmart, with each row representing an individual customer purchase and capturing details such as product category, customer type, store location, payment method, and key sales metrics. It is well-suited for exploratory data analysis (EDA), business performance tracking, and practicing SQL skills relevant to analyst roles. The goal of this project is to explore Walmart’s sales data to identify top-performing branches and products, analyze sales trends across product lines, and understand customer behavior. Insights from the analysis aim to inform and optimize sales strategies. The dataset was sourced from the Kaggle Walmart Sales Forecasting Competition.
 
 
 | Column | Description | Data Type
