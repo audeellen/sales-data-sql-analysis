@@ -1,6 +1,6 @@
 # Sales Data Analysis using SQL
 
-This dataset contains transactional sales data from a retail store. Each row represents a single customer purchase and includes detailed information on the purchase, customer, and product. The data is suitable for exploratory data analysis, performance tracking, business reporting, and practicing SQL for business analyst roles.
+This project is based on a sales dataset from a fictional retail company with multiple branches operating in different cities. The dataset simulates real-world transaction data and contains 1,000+ rows (assumed—you can adjust based on the actual size) capturing key details about customer purchases, pricing, revenue, and feedback. To demonstrate SQL skills relevant to analytical roles, I performed Exploratory Data Analysis series of intermediate SQL queries.
 
 
 | Column | Description | Data Type
